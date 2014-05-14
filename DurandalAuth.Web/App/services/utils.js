@@ -14,6 +14,7 @@ define(function () {
         isExternal: isExternal
     };
 
+
     /**
      * Get parameters from url
      * @param {string} name - The name of the parameter
